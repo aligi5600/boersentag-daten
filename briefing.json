@@ -1,0 +1,1079 @@
+{
+ "version": 1,
+ "stand": "13.11.2026, 8:30 Uhr",
+ "datum": "Freitag, 13. November",
+ "stimmung": "Angespannt.",
+ "positiv": false,
+ "lead": "In den USA fielen drei von vier Aktien, die Zinsen stiegen auf 5,1 % und Öl verteuerte sich. Der DAX startet nach dem Rekord leicht schwächer – heute zählen vor allem die US-Erzeugerpreise um 14:30 Uhr.",
+ "kennzahlen": [
+  {
+   "titel": "Hebel heute",
+   "symbol": "bolt",
+   "ton": "grau",
+   "wert": "Keiner",
+   "text": "Freitag, Inflationsdaten um 14:30 – nichts übers Wochenende"
+  },
+  {
+   "titel": "Countdown",
+   "symbol": "clock",
+   "ton": "orange",
+   "wert": "Heute",
+   "text": "US-Erzeugerpreise · 14:30",
+   "tab": "termine"
+  },
+  {
+   "titel": "Setup",
+   "symbol": "scope",
+   "ton": "gruen",
+   "wert": "Keins",
+   "text": "Abwarten · Take-Two erst bei 196–200 €",
+   "tab": "calls"
+  },
+  {
+   "titel": "Top-Gewinner",
+   "symbol": "chart.line.uptrend.xyaxis",
+   "ton": "blau",
+   "wert": "AMD",
+   "zusatz": "+5,9 %",
+   "text": "stärkster großer Tech-Wert am Donnerstag"
+  }
+ ],
+ "sektoren": [
+  {
+   "name": "Rohstoffe",
+   "change": -1.28
+  },
+  {
+   "name": "Kommunikation",
+   "change": -0.96
+  },
+  {
+   "name": "Industrie",
+   "change": -0.89
+  },
+  {
+   "name": "Finanzen",
+   "change": -0.72
+  },
+  {
+   "name": "Gesundheit",
+   "change": -0.59
+  },
+  {
+   "name": "Immobilien",
+   "change": -0.52
+  },
+  {
+   "name": "Zykl. Konsum",
+   "change": -0.44
+  },
+  {
+   "name": "Basiskonsum",
+   "change": -0.43
+  },
+  {
+   "name": "Technologie",
+   "change": -0.34
+  },
+  {
+   "name": "Versorger",
+   "change": -0.02
+  },
+  {
+   "name": "Energie",
+   "change": 1.51
+  }
+ ],
+ "sektorText": "1 von 11 im Plus · nur Energie +1,51 %",
+ "watchlist": [
+  {
+   "kuerzel": "NV",
+   "name": "Nvidia",
+   "info": "Huang weg · Schluss −4,3 % nach Tief bei −10 %",
+   "urteil": "Finger weg",
+   "ton": "rot",
+   "farbe": "#30B0C7"
+  },
+  {
+   "kuerzel": "DAX",
+   "name": "DAX",
+   "info": "Erster Schluss über altem Rekord · vorbörslich −0,2 %",
+   "urteil": "Abwarten",
+   "ton": "orange",
+   "farbe": "#5856D6"
+  },
+  {
+   "kuerzel": "TTWO",
+   "name": "Take-Two",
+   "info": "≈ 205 € · Wunschzone 196–200 €",
+   "urteil": "Abwarten",
+   "ton": "orange",
+   "farbe": "#FF9500"
+  },
+  {
+   "kuerzel": "AMD",
+   "name": "AMD",
+   "info": "+5,9 % · Woche über +20 %",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "farbe": "#FF3B30"
+  },
+  {
+   "kuerzel": "TSLA",
+   "name": "Tesla",
+   "info": "Fusionsbericht SpaceX · +1,7 %",
+   "urteil": "Kein Setup",
+   "ton": "grau",
+   "farbe": "#E31937"
+  },
+  {
+   "kuerzel": "MSFT",
+   "name": "Microsoft",
+   "info": "Störung bei 365 · nachbörslich schwächer",
+   "urteil": "Kein Setup",
+   "ton": "grau",
+   "farbe": "#00A4EF"
+  },
+  {
+   "kuerzel": "RHM",
+   "name": "Rheinmetall",
+   "info": "Neues Jahrestief 763 €",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "farbe": "#8E8E93"
+  },
+  {
+   "kuerzel": "HAG",
+   "name": "Hensoldt",
+   "info": "Partner gehackt · abends −4 %",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "farbe": "#34C759"
+  }
+ ],
+ "topMeldung": {
+  "kategorie": "Tech",
+  "wann": "Gestern",
+  "titel": "Nvidia nach Huang-Rücktritt: Absturz, dann Aufholjagd",
+  "text": "Die Aktie fiel bis auf 148,80 $, schloss aber nur 4,3 % tiefer bei 166,19 $. AMD und Broadcom gewannen jeweils über 5 %. Zahlen kommen am Dienstag."
+ },
+ "movers": {
+  "tag": {
+   "gewinner": [
+    {
+     "ticker": "SNDK",
+     "name": "SanDisk",
+     "change": 13.7
+    },
+    {
+     "ticker": "BE",
+     "name": "Bloom Energy",
+     "change": 13.0
+    },
+    {
+     "ticker": "MU",
+     "name": "Micron Technology",
+     "change": 11.9
+    },
+    {
+     "ticker": "DELL",
+     "name": "Dell Technologies",
+     "change": 11.8
+    },
+    {
+     "ticker": "LITE",
+     "name": "Lumentum",
+     "change": 10.7
+    }
+   ],
+   "verlierer": [
+    {
+     "ticker": "ABNB",
+     "name": "Airbnb",
+     "change": -3.1
+    },
+    {
+     "ticker": "LULU",
+     "name": "Lululemon",
+     "change": -2.6
+    },
+    {
+     "ticker": "MCD",
+     "name": "McDonald’s",
+     "change": -2.6
+    },
+    {
+     "ticker": "LDOS",
+     "name": "Leidos",
+     "change": -2.4
+    },
+    {
+     "ticker": "NVR",
+     "name": "NVR",
+     "change": -2.3
+    }
+   ]
+  },
+  "woche": {
+   "gewinner": [
+    {
+     "ticker": "APP",
+     "name": "AppLovin",
+     "change": 48.9
+    },
+    {
+     "ticker": "COHR",
+     "name": "Coherent",
+     "change": 20.2
+    },
+    {
+     "ticker": "MPWR",
+     "name": "Monolithic Power",
+     "change": 17.3
+    },
+    {
+     "ticker": "NRG",
+     "name": "NRG Energy",
+     "change": 17.1
+    },
+    {
+     "ticker": "CHTR",
+     "name": "Charter Communications",
+     "change": 13.4
+    }
+   ],
+   "verlierer": [
+    {
+     "ticker": "AXON",
+     "name": "Axon Enterprise",
+     "change": -25.6
+    },
+    {
+     "ticker": "EXPE",
+     "name": "Expedia",
+     "change": -17.8
+    },
+    {
+     "ticker": "MCHP",
+     "name": "Microchip Technology",
+     "change": -17.5
+    },
+    {
+     "ticker": "NVDA",
+     "name": "Nvidia",
+     "change": -13.2
+    },
+    {
+     "ticker": "NWSA",
+     "name": "News Corp",
+     "change": -12.2
+    }
+   ]
+  },
+  "monat": {
+   "gewinner": [
+    {
+     "ticker": "APP",
+     "name": "AppLovin",
+     "change": 48.7
+    },
+    {
+     "ticker": "FISV",
+     "name": "Fiserv",
+     "change": 36.9
+    },
+    {
+     "ticker": "IDXX",
+     "name": "IDEXX Laboratories",
+     "change": 35.0
+    },
+    {
+     "ticker": "PNR",
+     "name": "Pentair",
+     "change": 31.5
+    },
+    {
+     "ticker": "ROP",
+     "name": "Roper Technologies",
+     "change": 29.7
+    }
+   ],
+   "verlierer": [
+    {
+     "ticker": "INTC",
+     "name": "Intel",
+     "change": -39.2
+    },
+    {
+     "ticker": "MRVL",
+     "name": "Marvell Technology",
+     "change": -37.2
+    },
+    {
+     "ticker": "DDOG",
+     "name": "Datadog",
+     "change": -34.9
+    },
+    {
+     "ticker": "DELL",
+     "name": "Dell Technologies",
+     "change": -34.6
+    },
+    {
+     "ticker": "LITE",
+     "name": "Lumentum",
+     "change": -34.4
+    }
+   ]
+  }
+ },
+ "moverHinweis": "S&P 500 · Stand Schluss Mi., 11.11. · Woche = 5, Monat = 21 Handelstage",
+ "tagesablauf": [
+  {
+   "zeit": "9:00",
+   "text": "Xetra-Start, DAX um 26.725 erwartet",
+   "wichtig": false,
+   "position": 0.067
+  },
+  {
+   "zeit": "14:30",
+   "text": "US-Erzeugerpreise Oktober",
+   "wichtig": true,
+   "position": 0.433
+  },
+  {
+   "zeit": "15:30",
+   "text": "US-Eröffnung: hält Nvidia die Erholung?",
+   "wichtig": false,
+   "position": 0.5
+  },
+  {
+   "zeit": "22:00",
+   "text": "US-Schluss, danach Wochenende",
+   "wichtig": false,
+   "position": 0.933
+  }
+ ],
+ "calls": [
+  {
+   "id": "NV",
+   "name": "Nvidia",
+   "farbe": "#30B0C7",
+   "urteil": "Finger weg",
+   "ton": "rot",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "rot",
+     "text": "Fällt seit Anfang Oktober – rund 18 % unter der langfristigen Durchschnittslinie (≈ 184 €) und unter allen anderen."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "Nach dem Rücktritt von Jensen Huang zuerst bis **148,80 $** (≈ 134,50 €) abgestürzt, dann kräftig erholt: Schluss **166,19 $** (≈ 150,20 €, −4,3 %) mit fast vierfachem Normalvolumen. Trump bringt Tim Cook als Nachfolger ins Spiel – entschieden ist nichts."
+    },
+    {
+     "art": "Hürden",
+     "ton": "blau",
+     "text": "Nach oben: 162,60 € (Kurslücke vom 9.11.), dann 177 €\nNach unten: 134,50 € (Tief vom Donnerstag)"
+    },
+    {
+     "art": "Was tun",
+     "ton": "rot",
+     "text": "Fallendes Messer – nicht nachkaufen. Am **Di 17.11.** kommen Zahlen (Optionsmarkt erwartet **±10,8 %**). Frühestens interessant, wenn sie nach den Zahlen über **162,60 €** schließt."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    },
+    {
+     "name": "StockTitan",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+    }
+   ]
+  },
+  {
+   "id": "DAX",
+   "name": "DAX",
+   "farbe": "#5856D6",
+   "urteil": "Abwarten",
+   "ton": "orange",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "gruen",
+     "text": "Steigt – über allen wichtigen Durchschnittslinien. Schluss Donnerstag **26.771,88** (+0,41 %), erstmals über dem alten Rekord von 26.693."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "Kurz über 27.000 (Rekord 27.001,67), dann wieder abgegeben. Vorbörslich −0,2 % bei rund 26.725. Gegenwind: US-Zinsen bei 5,1 %, heute 14:30 Uhr US-Erzeugerpreise."
+    },
+    {
+     "art": "Hürden",
+     "ton": "blau",
+     "text": "Nach oben: 27.002 Punkte (Rekordhoch)\nNach unten: 26.693 Punkte, dann 26.280"
+    },
+    {
+     "art": "Was tun",
+     "ton": "orange",
+     "text": "Heute kein Einstieg: Freitag, wichtige Inflationsdaten und nur rund 1:1 Chance zu Risiko. Neu ansehen bei einem Schluss über **27.002** oder einem Rücksetzer auf **26.300–26.400**."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-voruebergehend-erstmals-ueber-27-000-punkten-1036757018"
+    },
+    {
+     "name": "finanzen.net",
+     "url": "https://www.finanzen.net/nachricht/aktien/heute-im-fokus-13-11-2026-16062113"
+    }
+   ]
+  },
+  {
+   "id": "TTWO",
+   "name": "Take-Two",
+   "farbe": "#FF9500",
+   "urteil": "Abwarten",
+   "ton": "orange",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "gruen",
+     "text": "Steigt – über allen wichtigen Durchschnittslinien."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "Donnerstag −1,9 % auf **226,95 $** (≈ 205,10 €), Tagestief ≈ 201,70 € – kommt der Wunschzone näher. Der Start von GTA VI am **19.11.** kann die Aktie in beide Richtungen schieben."
+    },
+    {
+     "art": "Hürden",
+     "ton": "blau",
+     "text": "Nach oben: 214,30 € (Hoch vom 11.11.)\nNach unten: 197 € (langfristige Durchschnittslinie), dann 184 €"
+    },
+    {
+     "art": "Was tun",
+     "ton": "orange",
+     "text": "Nicht bei ≈ 205 € kaufen. Ein Rücksetzer auf **196–200 €** wäre interessant – dann nur ohne Hebel, Stop **184 €**, raus bis 18.11."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "Alpha Vantage",
+     "url": "https://www.alphavantage.co/"
+    },
+    {
+     "name": "GuruFocus",
+     "url": "https://www.gurufocus.com/news/9191924/dear-taketwo-stock-fans-mark-your-calendars-for-november-19"
+    }
+   ]
+  },
+  {
+   "id": "AMD",
+   "name": "AMD",
+   "farbe": "#FF3B30",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "gruen",
+     "text": "Steigt steil – in einer Woche über 20 % (Profiteur der Nvidia-Krise)."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "Donnerstag +5,9 % auf **585,30 $** (≈ 528,90 €), Broadcom +5,5 %. Anleger schichten von Nvidia in die Konkurrenz um."
+    },
+    {
+     "art": "Was tun",
+     "ton": "rot",
+     "text": "Nicht hinterherlaufen – nach so einem Lauf kann ein Rücksetzer jederzeit kommen. Erst wieder ansehen, wenn die Aktie ein paar Tage zur Ruhe kommt."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "AP",
+     "url": "https://www.ksat.com/business/2026/11/13/asian-shares-are-mixed-as-investors-assess-impact-of-nvidias-fallout-on-global-ai-development/"
+    },
+    {
+     "name": "Motley Fool",
+     "url": "https://fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-shares-slide-on-reports-of-ceo-jensen-huang-s-resignation"
+    }
+   ]
+  },
+  {
+   "id": "TSLA",
+   "name": "Tesla",
+   "farbe": "#E31937",
+   "urteil": "Kein Setup",
+   "ton": "grau",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "grau",
+     "text": "Kein klares Signal – heute ohne eigene Chartdaten bewertet."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "+1,7 % auf **397,45 $** (≈ 359,20 €): Laut Bloomberg verhandeln SpaceX und Tesla über Preis und Kontrolle, eine Ankündigung sei ab Dezember möglich. Bestätigt ist nichts."
+    },
+    {
+     "art": "Was tun",
+     "ton": "grau",
+     "text": "Kein Einstieg auf ein Fusionsgerücht. Hauptversammlung laut Bericht am 3.12. – bis dahin abwarten."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "Interesting Engineering",
+     "url": "https://interestingengineering.com/culture/tesla-and-spacex-advance-merger-talks"
+    },
+    {
+     "name": "Digitimes",
+     "url": "https://www.digitimes.com/news/a20261113VL222/spacex-merger-tesla-2026-manufacturing.html"
+    }
+   ]
+  },
+  {
+   "id": "MSFT",
+   "name": "Microsoft",
+   "farbe": "#00A4EF",
+   "urteil": "Kein Setup",
+   "ton": "grau",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "grau",
+     "text": "Kein klares Signal – heute ohne eigene Chartdaten bewertet."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "orange",
+     "text": "Donnerstag +0,4 % auf **523 $** (≈ 472,60 €). Danach stundenlange weltweite Störung bei Outlook, Teams und Copilot – nachbörslich schwächer."
+    },
+    {
+     "art": "Was tun",
+     "ton": "grau",
+     "text": "Kein Einstieg – eine Störung ändert die Geschichte nicht, schafft aber auch keinen Vorteil."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+    }
+   ]
+  },
+  {
+   "id": "RHM",
+   "name": "Rheinmetall",
+   "farbe": "#8E8E93",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "rot",
+     "text": "Fällt seit Monaten – weit unter allen wichtigen Durchschnittslinien. Seit Jahresbeginn rund −50 %."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "rot",
+     "text": "Neues Jahrestief bei **763,10 €**, zuletzt rund 768 € (−3 %). Belastung: Friedensgespräche Russland/Ukraine und gesenkte Prognose."
+    },
+    {
+     "art": "Hürden",
+     "ton": "blau",
+     "text": "Nach oben: 792 € (altes Jahrestief), dann 860 €\nNach unten: 763 €"
+    },
+    {
+     "art": "Was tun",
+     "ton": "rot",
+     "text": "Fallendes Messer – nicht nachkaufen. Erst wieder ansehen über **792 €**, ein echter Einstieg erst über **900 €**."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "dpa-AFX",
+     "url": "https://www.finanzen.at/nachrichten/aktien/roundup-aktien-frankfurt-schluss-dax-voruebergehend-erstmals-ueber-27-000-punkten-1036757018"
+    }
+   ]
+  },
+  {
+   "id": "HAG",
+   "name": "Hensoldt",
+   "farbe": "#34C759",
+   "urteil": "Nicht kaufen",
+   "ton": "rot",
+   "fakten": [
+    {
+     "art": "Trend",
+     "ton": "rot",
+     "text": "Schwach – Rüstungswerte stehen seit Wochen unter Druck."
+    },
+    {
+     "art": "Stimmung",
+     "ton": "rot",
+     "text": "Drohnen-Partner Quantum Systems meldet einen Cyberangriff; laut Financial Times zog die Bundeswehr dessen Drohnen vorsorglich ab. Hensoldt abends bis **−4,4 %** auf rund **79 €**."
+    },
+    {
+     "art": "Was tun",
+     "ton": "rot",
+     "text": "Nicht kaufen, solange die Rüstungsbranche fällt und der Schaden bei Quantum Systems unklar ist."
+    }
+   ],
+   "quellen": [
+    {
+     "name": "finanzen.at",
+     "url": "https://www.finanzen.at/nachrichten/aktien/hensoldt-aktie-in-rot-partner-quantum-systems-meldet-cyberangriff-1036757876"
+    }
+   ]
+  }
+ ],
+ "uebrige": [
+  {
+   "titel": "Apple · Amazon · Meta · Alphabet",
+   "chip": "Kein Setup",
+   "ton": "grau",
+   "text": "Schluss Do: Apple 354,88 $ (−0,1 %), Amazon 267,44 $ (+0,5 %), Meta 623,61 $ (−0,8 %), Alphabet 295,35 $ (+1,6 %). Keine eigenen Auslöser."
+  },
+  {
+   "titel": "Nasdaq 100",
+   "chip": "Abwarten",
+   "ton": "orange",
+   "text": "28.289 Punkte (−0,3 %) – fast alles aufgeholt, aber Zinsen bei 5,1 % und Nvidia-Zahlen am 17.11. bremsen."
+  },
+  {
+   "titel": "SAP · Palantir",
+   "chip": "Kein Setup",
+   "ton": "grau",
+   "text": "Keine neuen Meldungen und keine verlässlichen Schlusskurse – heute kein Urteil möglich."
+  }
+ ],
+ "radar": [
+  {
+   "kuerzel": "AXON",
+   "name": "Axon",
+   "farbe": "#64D2FF",
+   "chip": "Dip-Kandidat",
+   "ton": "gruen",
+   "warum": "Taser- und Bodycam-Hersteller: nach schwachen Zahlen in einer Woche rund 26 % gefallen, das Software-Geschäft wächst aber weiter um 43 %.",
+   "kauf": "eine Woche kein neues Tief und ein Tagesschluss über **303 €** · Kurs zuletzt ≈ **274 €**",
+   "abbruch": "Schluss unter **271 €**",
+   "quellen": [
+    {
+     "name": "Finviz",
+     "url": "https://finviz.com/news/418182/axon-misses-and-trims-2026-outlook-as-dedrone-slippage-and-margin-pressure-overshadow-a-43-software-acceleration"
+    }
+   ]
+  },
+  {
+   "kuerzel": "HD",
+   "name": "Home Depot",
+   "farbe": "#AC8E68",
+   "chip": "Bald spannend",
+   "ton": "blau",
+   "warum": "Zahlen am **Di 17.11.** vor US-Börsenstart – erster großer Test für den US-Konsum, Optionsmarkt erwartet ±4,1 %.",
+   "kauf": "Zahlen und Ausblick überzeugen und die Aktie schließt den Tag danach im Plus.",
+   "abbruch": "Prognose gesenkt",
+   "quellen": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/home-depot-options-suggest-41-move-on-earnings-next-week-93CH-5016108"
+    }
+   ]
+  },
+  {
+   "kuerzel": "WMT",
+   "name": "Walmart",
+   "farbe": "#AC8E68",
+   "chip": "Bald spannend",
+   "ton": "blau",
+   "warum": "Zahlen am **Do 19.11.** vor US-Börsenstart – wichtigster Test für den US-Verbraucher vor Weihnachten.",
+   "kauf": "die Zahlen sind gut und die Aktie schließt den Tag danach im Plus – nicht vorher zocken.",
+   "abbruch": "Prognose gesenkt",
+   "quellen": [
+    {
+     "name": "Earnings Whispers",
+     "url": "https://www.earningswhispers.com/calweek/20261116"
+    }
+   ]
+  }
+ ],
+ "hebel": {
+  "titel": "Heute keiner",
+  "text": "Es ist Freitag – gehebelt nichts übers Wochenende. Dazu kommen um 14:30 Uhr wichtige Inflationsdaten, und Nvidia schwankt im Schnitt fast 6 % am Tag: ein ehrlicher Stop läge über 9 % entfernt (höchstens 2x)."
+ },
+ "erledigt": [
+  {
+   "titel": "Cisco & Applied Materials Zahlen",
+   "ton": "grau",
+   "text": "Cisco mit Rekordumsatz von 18,5 Mrd. $ und höherer Jahresprognose, Applied Materials mit Rekordumsatz von 10,41 Mrd. $ – nachbörslich beide kaum bewegt."
+  },
+  {
+   "titel": "DAX kurz über 27.000",
+   "ton": "grau",
+   "text": "Rekordhoch 27.001,67, Schluss 26.771,88 (+0,41 %). Munich Re +2,9 %, Allianz +1,9 % (Rekord), GEA −4,3 %."
+  },
+  {
+   "titel": "US-Arbeitslosenanträge",
+   "ton": "grau",
+   "text": "200.000 Erstanträge, 9.000 mehr als in der Vorwoche."
+  }
+ ],
+ "ausblick": [
+  {
+   "tag": "Fr",
+   "datum": "13.",
+   "wetter": "gewitter",
+   "label": "PPI"
+  },
+  {
+   "tag": "Mo",
+   "datum": "16.",
+   "wetter": "ruhig",
+   "label": "Ruhig"
+  },
+  {
+   "tag": "Di",
+   "datum": "17.",
+   "wetter": "gewitter",
+   "label": "Nvidia"
+  },
+  {
+   "tag": "Mi",
+   "datum": "18.",
+   "wetter": "mittel",
+   "label": "Fed"
+  },
+  {
+   "tag": "Do",
+   "datum": "19.",
+   "wetter": "mittel",
+   "label": "Walmart"
+  }
+ ],
+ "woche": [
+  {
+   "datum": "Fr 13.11.",
+   "zeit": "14:30",
+   "titel": "US-Erzeugerpreise (PPI) Oktober",
+   "text": "Erwartet +0,4 % zum Vormonat – entscheidet mit über die Dezember-Zinserhöhung.",
+   "stufe": "rot"
+  },
+  {
+   "datum": "Fr 13.11.",
+   "zeit": "22:00",
+   "titel": "US-Börsenschluss vor dem Wochenende",
+   "text": "Keine gehebelten Positionen übers Wochenende halten."
+  }
+ ],
+ "monat": [
+  {
+   "datum": "Di 17.11.",
+   "zeit": "vorbörslich",
+   "titel": "Home Depot & Disney Quartalszahlen",
+   "text": "Konsum-Check vor dem Weihnachtsgeschäft.",
+   "stufe": "orange",
+   "gruppe": "November"
+  },
+  {
+   "datum": "Di 17.11.",
+   "zeit": "14:30",
+   "titel": "US-Einzelhandelsumsätze Oktober",
+   "text": "Wie viel geben die US-Verbraucher aus?",
+   "stufe": "orange"
+  },
+  {
+   "datum": "Di 17.11.",
+   "zeit": "nach US-Schluss",
+   "titel": "Nvidia Quartalszahlen",
+   "text": "Erste Zahlen ohne Jensen Huang – Optionsmarkt erwartet ±10,8 %.",
+   "stufe": "rot"
+  },
+  {
+   "datum": "Mi 18.11.",
+   "zeit": "vorbörslich",
+   "titel": "Target, Lowe’s, TJX Quartalszahlen",
+   "text": "US-Einzelhandel."
+  },
+  {
+   "datum": "Mi 18.11.",
+   "zeit": "20:00",
+   "titel": "Fed-Protokoll der Oktober-Sitzung",
+   "text": "Hinweise, wie stark die Fed im Dezember erhöht.",
+   "stufe": "orange"
+  },
+  {
+   "datum": "Do 19.11.",
+   "zeit": "vorbörslich",
+   "titel": "Walmart Quartalszahlen",
+   "text": "Stimmungsbarometer für den US-Verbraucher.",
+   "stufe": "orange"
+  },
+  {
+   "datum": "Do 19.11.",
+   "zeit": "ganztags",
+   "titel": "Start von GTA VI (Take-Two)",
+   "text": "Größter Spielestart des Jahres.",
+   "stufe": "orange"
+  },
+  {
+   "datum": "Do 19.11.",
+   "zeit": "geplant",
+   "titel": "Börsengang Anthropic (19. oder 20.11.)",
+   "text": "Medienberichte nennen beide Tage – unbestätigt.",
+   "stufe": "orange"
+  },
+  {
+   "datum": "Mi 25.11.",
+   "zeit": "14:30",
+   "titel": "US-Wachstum Q3 + PCE-Inflation",
+   "text": "Lieblings-Inflationsmaß der Fed.",
+   "stufe": "rot"
+  },
+  {
+   "datum": "Do 26.11.",
+   "zeit": "ganztags",
+   "titel": "US-Börsen geschlossen (Thanksgiving)",
+   "text": "Freitag verkürzter Handel, dünne Umsätze."
+  },
+  {
+   "datum": "Do 26.11.",
+   "zeit": "ganztags",
+   "titel": "EU-Sondergipfel (bis 27.11.)",
+   "text": "Thema u. a. EZB-Spitze."
+  },
+  {
+   "datum": "Do 3.12.",
+   "zeit": "geplant",
+   "titel": "Tesla-Hauptversammlung",
+   "text": "Laut Bericht – unbestätigt. Mögliche Bühne für Fusionspläne.",
+   "gruppe": "Anfang Dezember"
+  },
+  {
+   "datum": "Fr 4.12.",
+   "zeit": "14:30",
+   "titel": "US-Arbeitsmarktbericht November",
+   "text": "Letzte Jobzahlen vor dem Fed-Entscheid.",
+   "stufe": "rot"
+  },
+  {
+   "datum": "Mi 9.12.",
+   "zeit": "20:00",
+   "titel": "Fed-Zinsentscheid",
+   "text": "Markt erwartet zu rund 90 % eine Zinserhöhung; 20:30 Uhr Pressekonferenz.",
+   "stufe": "rot"
+  },
+  {
+   "datum": "Do 10.12.",
+   "zeit": "14:30",
+   "titel": "US-Inflation November",
+   "text": "Erst nach dem Fed-Entscheid – unbestätigt.",
+   "stufe": "orange"
+  }
+ ],
+ "zahlen": [
+  {
+   "name": "Home Depot",
+   "wann": "Di 17.11. · vorbörslich",
+   "erwartet": 4.1
+  },
+  {
+   "name": "Disney",
+   "wann": "Di 17.11. · vorbörslich"
+  },
+  {
+   "name": "Nvidia",
+   "wann": "Di 17.11. · nach US-Schluss",
+   "erwartet": 10.8,
+   "schnitt": 7.8
+  },
+  {
+   "name": "Target",
+   "wann": "Mi 18.11. · vorbörslich"
+  },
+  {
+   "name": "Lowe’s",
+   "wann": "Mi 18.11. · vorbörslich"
+  },
+  {
+   "name": "Walmart",
+   "wann": "Do 19.11. · vorbörslich"
+  }
+ ],
+ "news": [
+  {
+   "kategorie": "Tech",
+   "ton": "grau",
+   "symbol": "cpu",
+   "farbe": "#007AFF",
+   "wann": "Gestern",
+   "titel": "Nvidia nach Huang-Rücktritt: Absturz, dann Aufholjagd",
+   "teaser": "Die Aktie fiel nach dem Rücktritt von Jensen Huang bis auf 148,80 $, schloss aber nur 4,3 % tiefer bei 166,19 $. Präsident Trump schlägt Apple-Chairman Tim Cook als Nachfolger vor.",
+   "mehr": [
+    "Huang legt seine Ämter mit sofortiger Wirkung nieder. Finanzchefin Colette Kress führt den Konzern übergangsweise; der Vorstand sucht intern und extern nach einem Nachfolger. Auslöser waren Berichte über Affären Huangs.",
+    "Vor der Mitteilung lag die Aktie zeitweise 8,5 % im Minus, erholte sich aber deutlich – bei rund 735 Millionen gehandelten Aktien. Eine formale Rolle bei der Nachfolge hat Trump nicht.",
+    "Warum es für Anleger zählt: Am Dienstag (17.11.) legt Nvidia Zahlen vor; der Optionsmarkt rechnet mit rund ±10,8 %. Bis dahin dominieren Schlagzeilen zur Nachfolge den ganzen Chipsektor."
+   ],
+   "quellen": [
+    {
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    }
+   ]
+  },
+  {
+   "kategorie": "Geopolitik",
+   "ton": "rot",
+   "symbol": "globe",
+   "farbe": "#FF3B30",
+   "wann": "Gestern",
+   "titel": "Trump: „Wir brauchen keinen Deal mit Iran“ – Öl steigt",
+   "teaser": "Der US-Präsident erklärt die Verhandlungen faktisch für beendet und zieht Vize JD Vance aus den Gesprächen ab. Brent stieg um rund 3 % auf knapp 96 $.",
+   "mehr": [
+    "Trump sagte, die Zeit für eine Vereinbarung mit Teheran sei vorbei; die USA hielten iranische Gelder und kontrollierten die Straße von Hormus.",
+    "Brent schloss 3,3 % höher bei 95,82 $, WTI bei 88,74 $. Europäisches Erdgas sprang um 6,7 % auf 92,50 € je Megawattstunde.",
+    "Warum es für Anleger zählt: Höhere Energiepreise heizen die Inflation an – genau in der Woche, in der die Fed über eine Zinserhöhung nachdenkt. Profiteure sind Ölwerte, Verlierer Airlines und Chemie."
+   ],
+   "quellen": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.anews.com.tr/europe/2026/11/12/energy-prices-rise-after-trump-says-us-does-not-need-a-deal-with-iran"
+    },
+    {
+     "name": "10 Things Global",
+     "url": "https://www.10things.news/p/10-things-global-news-13th-november-797"
+    }
+   ]
+  },
+  {
+   "kategorie": "Zentralbank",
+   "ton": "orange",
+   "symbol": "building.columns",
+   "farbe": "#AF52DE",
+   "wann": "Heute 14:30",
+   "titel": "US-Renditen bei 5,1 % – heute kommen die Erzeugerpreise",
+   "teaser": "Die Rendite zehnjähriger US-Anleihen stieg um 0,12 Punkte auf 5,10 %. Für die Oktober-Erzeugerpreise erwarten Ökonomen +0,4 % zum Vormonat.",
+   "mehr": [
+    "Zweijährige US-Anleihen rentierten mit 4,88 % rund 0,15 Punkte höher. Erwartet werden für die Erzeugerpreise +0,4 % zum Vormonat und 6,6 % zum Vorjahr.",
+    "Laut CME-FedWatch preisen Händler zu rund 90 % eine Zinserhöhung um 0,25 Punkte am 9. Dezember ein.",
+    "Warum es für Anleger zählt: Fallen die Erzeugerpreise heißer aus, steigen die Renditen weiter – das trifft vor allem teure Tech-Werte."
+   ],
+   "quellen": [
+    {
+     "name": "StockTitan",
+     "url": "https://www.stocktitan.net/articles/october-2026-ppi-preview-yearly-rate"
+    },
+    {
+     "name": "CappNotes",
+     "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-12"
+    }
+   ]
+  },
+  {
+   "kategorie": "Geopolitik",
+   "ton": "rot",
+   "symbol": "globe",
+   "farbe": "#FF3B30",
+   "wann": "Gestern",
+   "titel": "Ukrainische Drohne trifft russisches Kriegsschiff vor Finnland",
+   "teaser": "Finnland bestätigt eine Explosion auf der russischen Korvette „Naro-Fominsk“ im Finnischen Meerbusen. Die Drohne flog laut Estland durch dessen Luftraum.",
+   "mehr": [
+    "Der Angriff ereignete sich nahe der Insel Suursaari, rund 45 Kilometer vor der finnischen Küste. Parallel griff die Ukraine die russischen Ölhäfen Primorsk und Ust-Luga an.",
+    "Warum es für Anleger zählt: Angriffe auf russische Ölhäfen verknappen das Angebot zusätzlich – und ein Zwischenfall in NATO-Nähe kann die Friedensgespräche belasten."
+   ],
+   "quellen": [
+    {
+     "name": "Telegraph via Yahoo",
+     "url": "https://www.yahoo.com/news/world/articles/ukrainian-drone-strikes-russian-warship-010415039.html"
+    }
+   ]
+  },
+  {
+   "kategorie": "Politik",
+   "ton": "orange",
+   "symbol": "flag",
+   "farbe": "#5856D6",
+   "wann": "Gestern",
+   "titel": "Xi: Taiwans „Wiedervereinigung“ wird kommen",
+   "teaser": "Eine Woche vor seinem Treffen mit Trump beim APEC-Gipfel bekräftigt Chinas Staatschef den Anspruch auf Taiwan. 29 chinesische Militärflugzeuge patrouillierten um die Insel.",
+   "mehr": [
+    "Gewalt erwähnte Xi nicht; er bot Gespräche auf Basis von „ein Land, zwei Systeme“ an. Taiwans Festlandrat lehnt das ab.",
+    "Warum es für Anleger zählt: Taiwan ist der wichtigste Standort der Chipfertigung (TSMC). Jede Zuspitzung vor dem Trump-Xi-Treffen trifft Halbleiterwerte weltweit."
+   ],
+   "quellen": [
+    {
+     "name": "Dawn/AFP",
+     "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped"
+    }
+   ]
+  },
+  {
+   "kategorie": "Tech",
+   "ton": "grau",
+   "symbol": "cpu",
+   "farbe": "#007AFF",
+   "wann": "Bericht",
+   "titel": "SpaceX und Tesla verhandeln offenbar über Fusion",
+   "teaser": "Laut Bloomberg geht es bereits um Preis und Kontrolle; eine Ankündigung sei ab Dezember möglich. Zusammen kämen beide auf rund 3,4 Billionen Dollar.",
+   "mehr": [
+    "Größte Hürde sei die Abtrennung des China-Geschäfts von Tesla wegen der US-Rüstungsaufträge von SpaceX. Beide Unternehmen äußerten sich nicht.",
+    "Warum es für Anleger zählt: Es wäre die größte Fusion der Geschichte. Solange nichts bestätigt ist, bleibt es aber ein Bericht – kein Grund, Tesla deshalb zu kaufen."
+   ],
+   "quellen": [
+    {
+     "name": "Interesting Engineering",
+     "url": "https://interestingengineering.com/culture/tesla-and-spacex-advance-merger-talks"
+    }
+   ]
+  },
+  {
+   "kategorie": "Tech",
+   "ton": "grau",
+   "symbol": "cpu",
+   "farbe": "#007AFF",
+   "wann": "Gestern",
+   "titel": "Weltweite Störung bei Microsoft 365",
+   "teaser": "Outlook, Teams, OneDrive und Copilot fielen über Stunden aus. Die Microsoft-Aktie gab nachbörslich nach.",
+   "mehr": [
+    "Warum es für Anleger zählt: Einzelne Ausfälle kosten selten dauerhaft Kunden, erhöhen aber den Druck auf Microsoft, die Stabilität seiner Cloud zu beweisen."
+   ],
+   "quellen": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+    }
+   ]
+  },
+  {
+   "kategorie": "Politik",
+   "ton": "orange",
+   "symbol": "flag",
+   "farbe": "#5856D6",
+   "wann": "Gestern Abend",
+   "titel": "Cyberangriff bei Drohnenbauer Quantum Systems",
+   "teaser": "Der Hensoldt-Partner meldet einen Angriff auf seine IT. Laut Financial Times nahm die Bundeswehr dessen Drohnen vorsorglich aus dem Einsatz.",
+   "mehr": [
+    "Für Nutzer der Drohnen bestehe laut Unternehmen kein Risiko, die Untersuchung laufe noch. Hensoldt fiel am Abend um bis zu 4,4 % auf rund 79 €.",
+    "Warum es für Anleger zählt: Für die ohnehin schwachen deutschen Rüstungswerte ist das ein weiterer Dämpfer."
+   ],
+   "quellen": [
+    {
+     "name": "finanzen.at",
+     "url": "https://www.finanzen.at/nachrichten/aktien/hensoldt-aktie-in-rot-partner-quantum-systems-meldet-cyberangriff-1036757876"
+    }
+   ]
+  }
+ ]
+}
